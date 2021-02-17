@@ -1,4 +1,4 @@
-import * as _ from 'lodash'
+import _ from 'lodash'
 import { kafka } from './kafka'
 
 const emailConsumer1 = kafka.consumer({ groupId: 'email-sender-group' })
