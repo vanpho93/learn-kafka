@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
+    "kafka-streams": "^5.0.0",
     "kafkajs": "^1.15.0",
     "lodash": "^4.17.20"
   }
